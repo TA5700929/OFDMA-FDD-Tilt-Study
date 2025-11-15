@@ -7,7 +7,6 @@ This repository contains the MATLAB simulation data and figures for the IEEE Acc
 - `data/` – four CSV files produced by the simulation.  
 - `figures/` – 12 plots used in the paper.  
 - `scripts/` – MATLAB code (run `lte_tilt_validation.m` to reproduce results).  
-- `paper/` – manuscript files.
 
 ## How to reproduce
 1. Install MATLAB (R2020b or newer).  
