@@ -1,0 +1,8 @@
+Study,Terrains,ValidationSites,TiltType,OptMethod,Throughput_Mbps,RMSE_dB,ML_Accuracy_Pct
+Jin 2022,1,0,E,Graph Attn,22.5,NaN,NaN
+Vannella 2024,1,100,E,Cont Bandit,20,NaN,NaN
+Sahin 2024,1,87,N/A,ML Classify,20,NaN,95.1
+Partov 2015,1,0,E+M,Utility Fair,18,NaN,NaN
+Kifle 2013,1,0,E+M,Traffic Driven,20,NaN,NaN
+Qureshi 2021,1,0,E+M,Heuristic,17.8,NaN,NaN
+This Work,4,11764,E+M,RF+PSO,28.86,1.64342544052601,99.4874760685398

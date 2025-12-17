@@ -1,0 +1,20 @@
+Metric,Traditional,ML_Framework,Savings
+Per-site optimization cost,$850,$60,$790 (93%)
+  - Drive test equipment,$150,$0,$150
+  - Technician labor (6 hrs),$420,$0,$420
+  - Vehicle and fuel,$80,$0,$80
+  - RET adjustment,$50,$50,$0
+  - Data analysis,$150,$10,$140
+,,,
+Time per site,6 hours,0.003 seconds,">10,000×"
+,,,
+"Network-wide (1,000 sites)",,,
+  - Total cost,"$850,000","$60,000","$790,000"
+  - Deployment timeline,6 months,2 weeks,5.5 months
+  - Drive test requirements,"1,000 tests",100 tests,90% reduction
+,,,
+Annual re-optimization cost,"$850,000/year","$60,000/year","$790,000/year"
+,,,
+Framework development cost,N/A,"$100,000",One-time
+Break-even point,N/A,127 sites,-
+"5-year NPV (1,000 sites)","$4,250,000","$400,000","$3,850,000 (91%)"
